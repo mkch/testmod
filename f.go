@@ -1,5 +1,5 @@
 package testmod
 
-func F() string {
-	return "FF"
+func F3() string {
+	return "F3"
 }
